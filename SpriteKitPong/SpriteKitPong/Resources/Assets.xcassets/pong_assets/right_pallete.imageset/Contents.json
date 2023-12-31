@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "left_pallete.png",
+      "filename" : "Rectangle1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "Rectangle1@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "Rectangle1@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
